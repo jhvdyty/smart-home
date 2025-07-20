@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "minor_version": 1,
+  "key": "person",
+  "data": {
+    "items": [
+      {
+        "id": "vova",
+        "name": "Vova",
+        "user_id": "5a8fbd3d38914d09844242ba03ee2dcf",
+        "device_trackers": []
+      }
+    ]
+  }
+}

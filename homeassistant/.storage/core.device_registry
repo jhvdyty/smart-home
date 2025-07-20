@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "minor_version": 10,
+  "key": "core.device_registry",
+  "data": {
+    "devices": [
+      {"area_id":null,"config_entries":["01K0MPDM87JR078TEMTX7J41KS"],"config_entries_subentries":{"01K0MPDM87JR078TEMTX7J41KS":[null]},"configuration_url":null,"connections":[],"created_at":"2025-07-20T19:54:20.819296+00:00","disabled_by":null,"entry_type":"service","hw_version":null,"id":"2d24e43a792f22d80ce5da8b8a00c556","identifiers":[["sun","01K0MPDM87JR078TEMTX7J41KS"]],"labels":[],"manufacturer":null,"model":null,"model_id":null,"modified_at":"2025-07-20T19:54:20.819385+00:00","name_by_user":null,"name":"Sun","primary_config_entry":"01K0MPDM87JR078TEMTX7J41KS","serial_number":null,"sw_version":null,"via_device_id":null},
+      {"area_id":null,"config_entries":["01K0MPDN8H81AG90094A64WWP1"],"config_entries_subentries":{"01K0MPDN8H81AG90094A64WWP1":[null]},"configuration_url":"homeassistant://config/backup","connections":[],"created_at":"2025-07-20T19:54:22.043149+00:00","disabled_by":null,"entry_type":"service","hw_version":null,"id":"f42050ad5fe76f05dc2fc335f47ebe18","identifiers":[["backup","backup_manager"]],"labels":[],"manufacturer":"Home Assistant","model":"Home Assistant Backup","model_id":null,"modified_at":"2025-07-20T19:54:22.043372+00:00","name_by_user":null,"name":"Backup","primary_config_entry":"01K0MPDN8H81AG90094A64WWP1","serial_number":null,"sw_version":"2025.7.2","via_device_id":null},
+      {"area_id":null,"config_entries":["01K0MPW6V5XCDMS1712A9K4Q7G"],"config_entries_subentries":{"01K0MPW6V5XCDMS1712A9K4Q7G":[null]},"configuration_url":"https://www.met.no/en","connections":[],"created_at":"2025-07-20T20:02:19.260951+00:00","disabled_by":null,"entry_type":"service","hw_version":null,"id":"947894abbd7aa24f039c45ba32f34011","identifiers":[["met","01K0MPW6V5XCDMS1712A9K4Q7G"]],"labels":[],"manufacturer":"Met.no","model":"Forecast","model_id":null,"modified_at":"2025-07-20T20:02:19.261347+00:00","name_by_user":null,"name":"Forecast","primary_config_entry":"01K0MPW6V5XCDMS1712A9K4Q7G","serial_number":null,"sw_version":null,"via_device_id":null}
+    ],
+    "deleted_devices": []
+  }
+}

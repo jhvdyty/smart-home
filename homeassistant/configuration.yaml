@@ -1,4 +1,3 @@
-
 # Loads default set of integrations. Do not remove.
 default_config:
 
@@ -9,3 +8,14 @@ frontend:
 automation: !include automations.yaml
 script: !include scripts.yaml
 scene: !include scenes.yaml
+
+# Убираем device_tracker из YAML - добавим через UI
+# device_tracker:
+#   - platform: ping
+#     count: 3
+#     hosts:
+#       phone1: 192.168.1.211
+#       laptop1: 192.168.1.184
+
+# Samsung TV integration was removed, use Samsung Smart TV instead
+# Configure through UI: Settings -> Devices & Services -> Add Integration -> Samsung Smart TV

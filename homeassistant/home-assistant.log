@@ -1,0 +1,2 @@
+2025-07-23 20:16:12.888 WARNING (MainThread) [homeassistant.components.samsungtv] Attempting to turn on media_player.samsung_7_series_50_ue50tu7025kxxc via Wake-On-Lan; if this does not work, please ensure that Wake-On-Lan is available for your device or use a turn_on automation
+2025-07-23 20:16:19.398 WARNING (MainThread) [homeassistant.components.samsungtv] Attempting to turn on remote.samsung_7_series_50_ue50tu7025kxxc via Wake-On-Lan; if this does not work, please ensure that Wake-On-Lan is available for your device or use a turn_on automation

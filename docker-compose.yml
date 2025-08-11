@@ -3,7 +3,7 @@ services:
 
   homeassistant:
     container_name: homeassistant
-    image: ghcr.io/home-assistant/home-assistant:stable
+    image: curl -k http://192.168.1.208/aircon/get_model_info
     ports:
       - "8123:8123"
     volumes:
